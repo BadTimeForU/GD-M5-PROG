@@ -25,4 +25,6 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Enem
 ![les2](https://github.com/user-attachments/assets/9c7f1d8b-aeb7-4cef-ab20-c7ab375715e7)
 
 
-Scripts:
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Player.cs
+         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Scoreboard.cs
+         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Pickup.cs
