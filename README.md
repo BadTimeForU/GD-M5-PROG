@@ -22,6 +22,7 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Enem
 
 ## Les2
 
-![alt text](les2.gif)
+![les2](https://github.com/user-attachments/assets/9c7f1d8b-aeb7-4cef-ab20-c7ab375715e7)
+
 
 Scripts:
