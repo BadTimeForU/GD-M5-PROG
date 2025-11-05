@@ -1,0 +1,11 @@
+using UnityEngine;
+
+public class MoveProjs : MonoBehaviour
+{
+    private float moveSpeed = 20f;
+
+    void Update()
+    {
+        transform.position += transform.forward * moveSpeed * Time.deltaTime;
+    }
+}
