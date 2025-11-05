@@ -32,3 +32,28 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Play
          https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Scoreboard.cs
          https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Pickup.cs
 als je cirkel aanraakt dat score omhoog gaat.
+
+
+## Les4 Opdracht6
+
+![alt text](<les4 opdracht6.gif>)
+
+
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/ShipController.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/ShipHealth.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/ShipShield.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/ShipShooter.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/ShipUIManager.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Space48-main/Assets/Scripts/Shipinventory.cs
+ik heb me best geprobeert maar hij draait hem maar ik heb wel de SRP gedaan.
+
+
+## Les4 opdracht7
+
+![alt text](<les4 opdracht7.gif>)
+
+
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/LaserBehaviour.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Movement.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/ShipBehaviour.cs
+Heb de SRP hier bij gebruikt.
