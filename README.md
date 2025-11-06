@@ -57,3 +57,14 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Lase
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/Movement.cs
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/ShipBehaviour.cs
 Heb de SRP hier bij gebruikt.
+
+
+
+## Les5
+
+![alt text](les5.gif)
+
+
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/EnemyParent.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Brute.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Elf.cs
