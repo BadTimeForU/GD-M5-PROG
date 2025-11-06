@@ -68,3 +68,19 @@ Heb de SRP hier bij gebruikt.
 Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/EnemyParent.cs
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Brute.cs
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Elf.cs
+zoals je kan zien kan ik de lopende blokje met mijn kogels schieten.
+
+
+
+## Les6 opdracht9
+
+Scripts: https://github.com/BadTimeForU/M5-Skill-STEM/blob/main/Assets/Ball.cs
+
+Dependecy-lijst: 
+Dependencies
+
+class Ball:
+Vector3 velocity read & write
+Vector3 acceleration read & write
+
+ik heb bij deze opdracht een andere project gebruikt dus de projecten die we bij sjollema doen, want de BO Tower Defense die ik heb gemaakt hebben veel scripts en ik kom dan uit met weinig tijd en dan haal ik het niet dus ik heb het maar zo gedaan.
