@@ -91,3 +91,11 @@ ik heb bij deze opdracht een andere project gebruikt dus de projecten die we bij
 ## Les 1 - Code Conventies
 
 ![alt text](\Image\Les1-CodeConventies.gif)
+
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/InventoryItem.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/InventorySystem.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Keycard.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Medipack.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Weapon.cs
+
+ik heb hier zo als je kunt zien  beter code strucuur voor gebruikt en je ziet bijv. dat als je op m drukt dat medicaks eruit komt
