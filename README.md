@@ -84,3 +84,10 @@ Vector3 velocity read & write
 Vector3 acceleration read & write
 
 ik heb bij deze opdracht een andere project gebruikt dus de projecten die we bij sjollema doen, want de BO Tower Defense die ik heb gemaakt hebben veel scripts en ik kom dan uit met weinig tijd en dan haal ik het niet dus ik heb het maar zo gedaan.
+
+
+# GD-M6-PROG
+
+## Les 1 - Code Conventies
+
+![alt text](\Image\Les1-CodeConventies.gif)

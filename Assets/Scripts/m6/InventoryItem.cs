@@ -1,18 +1,15 @@
 using UnityEngine;
 
-public class InventoryItem : MonoBehaviour
+public abstract class InventoryItem
 {
-    private float mediPacks;
-    private float guns;
-    private float keyCard;
-    void Start()
+    public string Name { get; protected set; }
+    public int Quantity { get; set; }
+
+    public InventoryItem(string name, int quantity = 1)
     {
-        
+        Name = name;
+        Quantity = quantity;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public abstract void Use();
 }
