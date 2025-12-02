@@ -99,3 +99,48 @@ https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Medipack.c
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Weapon.cs
 
 ik heb hier zo als je kunt zien  beter code strucuur voor gebruikt en je ziet bijv. dat als je op m drukt dat medicaks eruit komt
+
+
+## Les 2 - Class Diagrams
+
+
+```mermaid
+classDiagram
+
+class Tower {
+    +cost : int
+    +range : float
+    +fireRate : float
+    +damage : int
+    +UpgradeTower()
+}
+
+class UpgradeUI {
+    +Show()
+    +Hide()
+    +SetTarget(Tower)
+}
+
+class UpgradeButton {
+    +OnClick()
+}
+
+class CloseButton {
+    +OnClick()
+}
+
+class Enemy {
+    +currentHealth : int
+    +TakeDamage()
+}
+
+class EnemyHealthBar {
+    +UpdateHealth()
+}
+
+Tower --> UpgradeUI : opent
+UpgradeUI --> UpgradeButton
+UpgradeUI --> CloseButton
+Tower --> Enemy : valt aan
+Enemy --> EnemyHealthBar : gebruikt
+```
