@@ -144,3 +144,7 @@ UpgradeUI --> CloseButton
 Tower --> Enemy : valt aan
 Enemy --> EnemyHealthBar : gebruikt
 ```
+
+## Les 3 - Data Structures
+
+![alt text](\Image\Les2.DataStructures.gif)
