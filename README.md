@@ -147,7 +147,7 @@ Enemy --> EnemyHealthBar : gebruikt
 
 ## Les 3 - Data Structures
 
-![alt text](\Image\Les2.DataStructures.gif)
+![alt text](\Image\Les3-DataStructures.gif)
 
 Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht3/Inventory.cs
          https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht3/Item.cs
@@ -160,3 +160,10 @@ Assets: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Op
         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht3/HealingPotion.asset
 
 ik heb deze opdracht gemaakt ik heb een zwaard met stats toegevoeg, chestplate en healing potion.
+
+
+## Les 4 - Delegates
+
+![alt text](Les6Opdracht4.gif)
+
+Scripts:
