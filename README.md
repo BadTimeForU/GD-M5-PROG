@@ -166,4 +166,9 @@ ik heb deze opdracht gemaakt ik heb een zwaard met stats toegevoeg, chestplate e
 
 ![alt text](Les6Opdracht4.gif)
 
-Scripts:
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht4/Collectible.cs
+         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht4/PlayerMove.cs
+         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht4/ScoreManager.cs
+         https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht4/ScoreUI.cs
+
+zoals je kan zien heb ik een player gemaakt die balletjes kan oppakken waardoor de score omhoog gaat in de textmeshpro.
