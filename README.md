@@ -172,3 +172,8 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/O
          https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht4/ScoreUI.cs
 
 zoals je kan zien heb ik een player gemaakt die balletjes kan oppakken waardoor de score omhoog gaat in de textmeshpro.
+
+
+## Les 7 - early returns
+
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/m6-opdracht7.cs
