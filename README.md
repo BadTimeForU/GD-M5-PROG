@@ -173,6 +173,15 @@ Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/O
 
 zoals je kan zien heb ik een player gemaakt die balletjes kan oppakken waardoor de score omhoog gaat in de textmeshpro.
 
+## Les 5 - Abstraction
+
+![alt text](m6-opdracht5.gif)
+
+Scripts: 
+
+## Les 6 - Polymohism
+
+Scripts:
 
 ## Les 7 - early returns
 
