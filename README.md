@@ -177,7 +177,10 @@ zoals je kan zien heb ik een player gemaakt die balletjes kan oppakken waardoor 
 
 ![alt text](m6-opdracht5.gif)
 
-Scripts: 
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/Collectable.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/CollectibleManager.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/DamageTrap.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/HealthPickup.cs
 
 ## Les 6 - Polymohism
 
