@@ -186,7 +186,11 @@ https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/
 
 ![alt text](m6-opdracht6.gif)
 
-Scripts:
+Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/BattleManager.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/enemy.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht6/Dragon.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht6/Goblin.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht6/Zombie.cs
 
 ## Les 7 - early returns
 
