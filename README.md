@@ -90,7 +90,7 @@ ik heb bij deze opdracht een andere project gebruikt dus de projecten die we bij
 
 ## Les 1 - Code Conventies
 
-![alt text](\Image\Les1-CodeConventies.gif)
+![alt text](Image/Les1-CodeConventies.gif)
 
 Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/InventoryItem.cs
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/InventorySystem.cs
@@ -147,7 +147,7 @@ Enemy --> EnemyHealthBar : gebruikt
 
 ## Les 3 - Data Structures
 
-![alt text](\Image\Les3-DataStructures.gif)
+![alt text](Les3DataStructures.gif)
 
 Scripts: https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht3/Inventory.cs
          https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Opdracht3/Item.cs
@@ -183,6 +183,8 @@ https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/opdracht5/HealthPickup.cs
 
 ## Les 6 - Polymohism
+
+![alt text](m6-opdracht6.gif)
 
 Scripts:
 
